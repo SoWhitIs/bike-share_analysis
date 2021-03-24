@@ -58,6 +58,12 @@ The below points were visualized  the storyboard, [Bike-Share At A Glance.](http
 
 * It would appear longer trips were had among riders with later birth years
 
+<p align="center">
+  <i><b> Bike-Share At A Glance</b></i> 
+ </p>
+<p align="center">
+  <img src="https://github.com/SoWhitIs/bike-share_analysis/blob/db501174993ef9145fdbadc89302aeaabf2f48f1/bike_share_at_a_glance_story.png" />
+</p>
 
 **Should _we_ go for?!**
 
@@ -67,7 +73,7 @@ Bike riding not only provides an optimal way to get around the city rather conve
 
 The environmental implications of riding a bike as oppose to driving a car are undeniably impactful.
 
-But, the fact of the matter Des Moines, Iowa is a different landscape from New York City.  To continue expound on this idea even further it may be helpful to dive in more to the additional measures as ones pointed out in the [introduction.](insert overview link)  
+But, the fact of the matter Des Moines, Iowa is a different landscape from New York City.  To continue expound on this idea even further it may be helpful to dive in more to the additional measures as ones pointed out in the [introduction.](https://github.com/SoWhitIs/bike-share_analysis/blob/main/README.md#overview-of-analysis)  
 
 **_Pedaling_ forward**
 
