@@ -41,6 +41,12 @@ The below points were visualized  the storyboard, [Bike-Share At A Glance.](http
 * The number of bike trips for each per user type and gender for each day of the week
 
 * The number of bike trips all riders per each hour, each day of the week
+<p align="center">
+  <i><b> Bike-Share At A Glance</b></i> 
+ </p>
+<p align="center">
+  <img src="https://github.com/SoWhitIs/bike-share_analysis/blob/db501174993ef9145fdbadc89302aeaabf2f48f1/bike_share_at_a_glance_story.png" />
+</p>
 
 ## Summary
 
@@ -58,12 +64,6 @@ The below points were visualized  the storyboard, [Bike-Share At A Glance.](http
 
 * It would appear longer trips were had among riders with later birth years
 
-<p align="center">
-  <i><b> Bike-Share At A Glance</b></i> 
- </p>
-<p align="center">
-  <img src="https://github.com/SoWhitIs/bike-share_analysis/blob/db501174993ef9145fdbadc89302aeaabf2f48f1/bike_share_at_a_glance_story.png" />
-</p>
 
 **Should _we_ go for?!**
 
