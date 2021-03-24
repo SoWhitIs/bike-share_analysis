@@ -65,7 +65,7 @@ The below points were visualized  the storyboard, [Bike-Share At A Glance.](http
 * It would appear longer trips were had among riders with later birth years
 
 
-**Should _we_ go for?!**
+**Should _we_ go for it?!**
 
 Immediately, a bike-share program for Des Moines, Iowa would favor to be a good idea!  After all, _who_ does not like a good bike ride throughout the city, taking in the scenery along the way? 
 
