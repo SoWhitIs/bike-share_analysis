@@ -73,7 +73,7 @@ Bike riding not only provides an optimal way to get around the city rather conve
 
 The environmental implications of riding a bike as oppose to driving a car are undeniably impactful.
 
-But, the fact of the matter Des Moines, Iowa is a different landscape from New York City.  To continue expound on this idea even further it may be helpful to dive in more to the additional measures as ones pointed out in the [introduction.](https://github.com/SoWhitIs/bike-share_analysis/blob/main/README.md#overview-of-analysis)  
+But, the fact of the matter Des Moines, Iowa is a different landscape from New York City.  To continue to expound on this {bike-share program} idea even further, it may be helpful to dive in more to the additional measures as ones pointed out in the [introduction.](https://github.com/SoWhitIs/bike-share_analysis/blob/main/README.md#overview-of-analysis)  
 
 **_Pedaling_ forward**
 
