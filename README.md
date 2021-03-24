@@ -19,7 +19,7 @@ In looking at opening the business in its totality the following ideas were also
 * Barriers of Entry:
     * Start-up Cost: How much do _we_ need to get up and running?
 	* Insurance
-	Employees
+	* Employees (Amount of Staff, Compensation Packages)
     * Infrastructure: hardware and software
 	* Permits
     * Competition, similar companies that may exist
