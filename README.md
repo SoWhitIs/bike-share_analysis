@@ -27,7 +27,7 @@ In looking at opening the business in its totality the following ideas were also
     * Where should bike stations be located? Start and end post?
 
 ## Resources
-* Data Source(s): Data source(s): [CitiBike August 2019, 20108-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html), [Updated/converted "Trip Duration"csv:201908-citibike-tripdata_convert2.csv](https://app.box.com/s/jggaqztdm372t3hakmc4rxrygjlkiund)
+* Data source(s): [CitiBike August 2019, 20108-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html), [Updated/converted "Trip Duration"csv:201908-citibike-tripdata_convert2.csv](https://app.box.com/s/jggaqztdm372t3hakmc4rxrygjlkiund)
 
 * Tools: Tableau Public, Jupyter Notebook, Lanuage(s): Python 3.7.6 64-bit | Python Libraries: Pandas | VS Code: Visual Studio Code, 1.52. 1
 
