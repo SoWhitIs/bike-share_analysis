@@ -34,7 +34,7 @@ In looking at opening the business in its totality the following ideas were also
 ## Results
 **The Story**
 
-The below points were visualized  the storyboard, [Bike-Share At A Glance.](https://public.tableau.com/views/Deliverable2VisualizationForTripAnalysisDeliverable3Bike-ShareFullStoryReport/Bike-ShareAtAGlance?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+The below points were visualized in the storyboard, [Bike-Share At A Glance.](https://public.tableau.com/views/Deliverable2VisualizationForTripAnalysisDeliverable3Bike-ShareFullStoryReport/Bike-ShareAtAGlance?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 * The length of time bikes are checked out for all riders and genders
 
