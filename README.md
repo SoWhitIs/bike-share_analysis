@@ -85,6 +85,7 @@ Gather more data! Take it to the streets! Ask local Iowans! Take a tour around t
 
 Begin to shape the data to show not only the success of the bike-share program, but a benefit to the city of Des Moines, including a possible Pilot Program. 
 
+---
 #### Author
 
 _Whitney D. Gardner_
